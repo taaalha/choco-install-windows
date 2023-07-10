@@ -5,7 +5,7 @@ You then have to reinstall them one by one.
 
 If you find this tedious, then here is the solution. 
 
-Just update the pacakges.config file with the things you want to install, and it will install everything all 
+Just update the `pacakges.config` file with the things you want to install, and it will install everything all 
 at once. 
 
 No need to do the tedious process step by step. 
